@@ -4,4 +4,4 @@ This repository is for the research of using LSTMs to model groundwater level wi
 
 Chck this out:
 
-![Really cool image of LSTM model trained on single groundwater catchment](assets\newplot.png)
+![Image of LSTM model trained on single groundwater catchment](https://github.com/BMcCawley/lstm_gwl/blob/main/assets/newplot.png)
